@@ -8,10 +8,8 @@ Group:          Development/Perl
 Summary:        Read/write buffer class
 Source0:        ftp://ftp.perl.org/pub/CPAN/modules/by-module/Data/%{realname}-%{version}.tar.bz2
 Url:            http://www.cpan.org
-BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 Requires:       perl
 BuildArch:      noarch
-BuildRoot:	%{_tmppath}/%{name}-%{version}-root
 
 %description
 Data::Buffer implements a low-level binary buffer in which
