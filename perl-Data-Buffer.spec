@@ -5,6 +5,7 @@ License:        GPL or Artistic
 
 %define realname        Data-Buffer
 Group:          Development/Perl
+BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 Summary:        Read/write buffer class
 Source0:        ftp://ftp.perl.org/pub/CPAN/modules/by-module/Data/%{realname}-%{version}.tar.bz2
 Url:            http://www.cpan.org
