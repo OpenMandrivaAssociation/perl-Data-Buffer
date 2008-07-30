@@ -1,6 +1,6 @@
 Name:           perl-Data-Buffer
 Version:        0.04
-Release:        %mkrel 5
+Release:        %mkrel 7
 License:        GPL or Artistic
 
 %define realname        Data-Buffer
