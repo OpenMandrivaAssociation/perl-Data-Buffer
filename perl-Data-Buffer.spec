@@ -4,7 +4,7 @@
 Summary:	Read/write buffer class
 Name:		perl-%{modname}
 Version:	%perl_convert_version %{modver}
-Release:	15
+Release:	16
 License:	GPLv2+ or Artistic
 Group:		Development/Perl
 Url:		http://www.cpan.org
