@@ -10,6 +10,7 @@ Group:		Development/Perl
 Url:		http://www.cpan.org
 Source0:	ftp://ftp.perl.org/pub/CPAN/modules/by-module/Data/%{modname}-%{modver}.tar.bz2
 BuildArch:	noarch
+BuildRequires:	perl(Test)
 BuildRequires:	perl-devel
 
 %description
