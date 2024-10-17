@@ -7,7 +7,7 @@ Version:	%perl_convert_version %{modver}
 Release:	20
 License:	GPLv2+ or Artistic
 Group:		Development/Perl
-Url:		http://www.cpan.org
+Url:		https://www.cpan.org
 Source0:	ftp://ftp.perl.org/pub/CPAN/modules/by-module/Data/%{modname}-%{modver}.tar.bz2
 BuildArch:	noarch
 BuildRequires:	perl(Test)
